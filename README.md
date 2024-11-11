@@ -2,15 +2,15 @@
 
 We design a program that manages student records at a university.
 
-# Input
-a) StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
-b) GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
-c) GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
-d) StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
-e) GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
-f) GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
+## Input
+a. StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
+b. GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
+c. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
+d. StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
+e. GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
+f. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
 
-# Output
+## Output
 Processed Inventory Reports:
 a) FullRoster.csv - all the items listed by row with all their information . The items should be sorted alphabetically by student last name. Each row contain student ID, major, first name, last name, GPA, graduation date and indicate if disciplinary action was taken. The student attributes appear in this order in each row.
 b) List per major, i.e ComputerInformationSystemsStudents.csv - there is a file for each major and the major needs to be in the file name, the spaces in the major name is eliminated for the file name. Each row of the file contain student ID, last name, first name, graduation date, and indicate if disciplinary action was taken. The students sorted by their student ID.
