@@ -3,8 +3,8 @@
 We design a program that manages student records at a university.
 
 ## Input
-a. StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
-b. GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
+- a) StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
+- b) GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
 c. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
 d. StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
 e. GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
