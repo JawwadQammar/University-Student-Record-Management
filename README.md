@@ -5,8 +5,8 @@ We design a program that manages student records at a university.
 ## Input
 - a) StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
 - b) GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
-  3. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
-d. StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
+3. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
+* StudentsMajorsList.csv -- contains items listed by row. Each row contains student ID, last name, first name, major, and optionally a disciplinary action indicator
 e. GPAList.csv -- contains items listed by row. Each row contains student ID and the student GPA.
 f. GraduationDatesList.csv – contains items listed by row. Each row contains student ID and graduation date.
 
